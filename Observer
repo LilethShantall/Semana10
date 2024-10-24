@@ -1,0 +1,5 @@
+package funcional.medieval;
+
+public interface Observer {
+    void update(String season);
+}
